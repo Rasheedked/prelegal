@@ -1,0 +1,73 @@
+LICENSE NOTICE FOR THE "templates" DIRECTORY
+============================================
+
+All legal agreement templates in this directory are the work of Common Paper
+(https://commonpaper.com) and are licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0):
+
+    https://creativecommons.org/licenses/by/4.0/
+
+Under CC BY 4.0 you are free to share (copy and redistribute) and adapt
+(remix, transform, and build upon) this material for any purpose, including
+commercially, provided that you give appropriate credit, provide a link to the
+license, and indicate if changes were made.
+
+This license applies only to the contents of this directory. It is separate
+from the license covering the rest of the Prelegal project (see the LICENSE
+file in the project root).
+
+Attribution
+-----------
+
+The templates were copied, unmodified, from the public repositories of the
+Common Paper GitHub organization (https://github.com/CommonPaper) on
+2026-11-13. Each file below is listed with its source repository and the
+commit it was retrieved from.
+
+  AI-Addendum.md
+      https://github.com/CommonPaper/AI-Addendum
+      commit 6d9b044df73a2477c177e5989fca7f8d27df9387
+
+  BAA.md
+      https://github.com/CommonPaper/BAA
+      commit 5f1fd992df1d0c78bf69997e1881e4107fa75695
+
+  CSA.md
+      https://github.com/CommonPaper/CSA
+      commit 3efceb01e3c8bfb7b302a5f34975aa2b084026a3
+
+  DPA.md
+      https://github.com/CommonPaper/DPA
+      commit 9f1c40d3fb0bb900397a919d058a9c0870f6b0f0
+
+  design-partner-agreement.md
+      https://github.com/CommonPaper/Design-Partner-Agreement
+      commit ab676a7a4b68ae84f1cfdba9f49a514d3aaa6694
+
+  Mutual-NDA.md
+  Mutual-NDA-coverpage.md
+      https://github.com/CommonPaper/Mutual-NDA
+      commit 2a3068b6c0ab6015c440f541d5b215bc3ac2f4cb
+
+  Partnership-Agreement.md
+      https://github.com/CommonPaper/Partnership-Agreement
+      commit 6edeb5a285206893cfd0ac482267db44d90f317c
+
+  Pilot-Agreement.md
+      https://github.com/CommonPaper/Pilot-Agreement
+      commit 5e7cdd4678cd9d6b3178872cce4a01d632f41f14
+
+  psa.md
+      https://github.com/CommonPaper/PSA
+      commit 3fb650a72d229f6d6e6d64abebae5e83c6699535
+
+  sla.md
+      https://github.com/CommonPaper/SLA
+      commit 5b0e6336f058a66c4976d70ecabf1f5fb9ef3af4
+
+  Software-License-Agreement.md
+      https://github.com/CommonPaper/Software-License-Agreement
+      commit 8ea7de38148a8a0c235b7aaf31487028c2e519ca
+
+Any later modifications made to these templates within the Prelegal project
+must be indicated as changes, as required by the license.
